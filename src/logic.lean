@@ -1,4 +1,3 @@
-
 section propositional
 
 variables P Q R : Prop
